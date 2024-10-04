@@ -1,0 +1,6 @@
+x1 <- seq(1,11,by = 2)
+print(x1)
+x2 <- seq(1,-11,length.out =7)
+print(x2)
+x3 <- seq(4,by=2,length.out =5)
+print(x3)

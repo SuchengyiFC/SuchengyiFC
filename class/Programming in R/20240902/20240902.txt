@@ -1,0 +1,42 @@
+邓亚航
+R语言编程
+数据结构  链表
+Java  集合  List列表 
+int num = 1
+String str = "Hello,world"
+C语言
+python
+
+num = 1
+str = "Hello,world"
+
+
+R
+scala
+
+不好理解
+交互性，响应式设计
+英语不好，想不起来关键字
+英语基础不好，有点抽象
+代码报错，不会解决
+语法复杂
+
+Java代码实现1~100的和？
+1、需求分析
+if~else 会
+for 会
+
+2、详细设计
+（1）表示出1~100之间所有的数
+（2）所有的数，求累加
+（3）输出累加的和
+
+3、编码实现
+int sum = 0
+for(int i = 1;i <= 100;i++){
+	sum += i 
+}
+system.out.println(sum)
+
+4、测试
+单元测试  组装测试
