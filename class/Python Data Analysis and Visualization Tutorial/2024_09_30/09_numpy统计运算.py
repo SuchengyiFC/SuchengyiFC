@@ -1,0 +1,21 @@
+import numpy as np
+#创建一个阵列
+a=np.array([1,20,3,14,5],dtype='int32')
+#求最大最小值
+#print(a.max(）)
+#print（a.min())
+#求和，求积
+#print（a.sum(））
+#print(a.prod())
+#求累加和，累加积
+#print（a.cumsum())
+#print（a.cumprod（))
+#做统计
+#print(a.mean())
+#print(a.std(）)
+#print(a.var(）)
+#需要调用的函数
+#print(np.median(a))
+#print（np.average（a))
+print(np.percentile(a,50))#百分位数
+print(np.quantile(a,0.5))
