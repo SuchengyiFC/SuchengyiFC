@@ -1,0 +1,59 @@
+su_chengyi = 12
+xie_jiangyi = 24
+print('第1次：常规赋值')
+print(su_chengyi)
+print(xie_jiangyi)
+print(su_chengyi == xie_jiangyi)
+print(su_chengyi != xie_jiangyi)
+print(su_chengyi > xie_jiangyi)
+print(su_chengyi < xie_jiangyi)
+print(su_chengyi >= xie_jiangyi)
+print(su_chengyi <= xie_jiangyi)
+
+su_chengyi -= xie_jiangyi
+xie_jiangyi += su_chengyi
+print('第2次：加减法赋值')
+print(su_chengyi)
+print(xie_jiangyi)
+print(su_chengyi == xie_jiangyi)
+print(su_chengyi != xie_jiangyi)
+print(su_chengyi > xie_jiangyi)
+print(su_chengyi < xie_jiangyi)
+print(su_chengyi >= xie_jiangyi)
+print(su_chengyi <= xie_jiangyi)
+
+su_chengyi *= xie_jiangyi
+xie_jiangyi /= xie_jiangyi
+print('第3次：乘除法赋值')
+print(su_chengyi)
+print(xie_jiangyi)
+print(su_chengyi == xie_jiangyi)
+print(su_chengyi != xie_jiangyi)
+print(su_chengyi > xie_jiangyi)
+print(su_chengyi < xie_jiangyi)
+print(su_chengyi >= xie_jiangyi)
+print(su_chengyi <= xie_jiangyi)
+
+su_chengyi %= xie_jiangyi
+su_chengyi //= xie_jiangyi
+print('第4次：取模与取整赋值')
+print(su_chengyi)
+print(xie_jiangyi)
+print(su_chengyi == xie_jiangyi)
+print(su_chengyi != xie_jiangyi)
+print(su_chengyi > xie_jiangyi)
+print(su_chengyi < xie_jiangyi)
+print(su_chengyi >= xie_jiangyi)
+print(su_chengyi <= xie_jiangyi)
+
+su_chengyi **= xie_jiangyi
+print('第5次：幂次运算')
+print(su_chengyi)
+print(xie_jiangyi)
+print(su_chengyi == xie_jiangyi)
+print(su_chengyi != xie_jiangyi)
+print(su_chengyi > xie_jiangyi)
+print(su_chengyi < xie_jiangyi)
+print(su_chengyi >= xie_jiangyi)
+print(su_chengyi <= xie_jiangyi)
+
