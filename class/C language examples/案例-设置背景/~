@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+	//float a;
+	//char d;
+	float a=5;
+	char d='k';
+	//a=5;
+	//d='f';
+	printf("a=%f\n",a);
+	printf("d=%c\n",d);
+	system("pause");
+return 0;
+} 
